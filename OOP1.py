@@ -5,7 +5,7 @@
 # x= 5
 # print(type(x))
 
-## This is so good
+
 class Student:  ## First litter in class name has to be capital litter
     ###### Class attriburtes must be intialize
     ###### Common between all objects
